@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "In poor taste",
+    "description": "",
+    "home_page_url": "https://ctrlaltdeceit.org",
+    "feed_url": "https://ctrlaltdeceit.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Writer"
+    },
+    "items": [
+    ]
+}
